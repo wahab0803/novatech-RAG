@@ -1,0 +1,103 @@
+NOVA TECH SOLUTIONS
+Pricing
+
+The following prices are standard starting prices. Final pricing depends on project requirements.
+
+Website Development
+
+Starter Website:
+Starting price: $500
+
+Includes:
+- Up to 5 pages
+- Responsive design
+- Contact form
+- Basic deployment
+
+Business Website:
+Starting price: $1,000
+
+Includes:
+- Up to 10 pages
+- Responsive design
+- Contact forms
+- Basic API integrations
+- Deployment
+
+E-commerce Website:
+Starting price: $1,500
+
+Includes:
+- Product catalog
+- Shopping cart
+- Checkout integration
+- Basic order management
+- Responsive design
+
+AI Chatbots
+
+Basic AI Chatbot:
+Starting price: $800
+
+Includes:
+- AI-powered question answering
+- Company knowledge base
+- Website integration
+- Basic conversation handling
+
+Advanced AI Chatbot:
+Starting price: $1,500
+
+Includes:
+- Knowledge base
+- Advanced conversation flows
+- Lead collection
+- Human handoff
+- External integrations
+
+Business Automation
+
+Basic Automation:
+Starting price: $300
+
+Includes:
+- One automated workflow
+- Up to 3 application integrations
+- Basic notifications
+
+Advanced Automation:
+Starting price: $750
+
+Includes:
+- Multiple workflows
+- Multiple application integrations
+- Conditional logic
+- Error handling
+
+Custom Software Development
+
+Custom software projects start at $2,000.
+
+Final pricing depends on:
+- Number of features
+- User requirements
+- Integrations
+- Database requirements
+- Authentication requirements
+- Development complexity
+
+SaaS Development
+
+SaaS projects start at $3,000.
+
+The final price depends on the product scope and required features.
+
+Payment Terms
+
+Projects above $1,000 require a 50% upfront payment before development begins.
+
+The remaining 50% is due after the project has been completed and approved by the client.
+
+Projects costing $1,000 or less require full payment before development begins.
+
+Prices listed in this document are starting prices and may change after project requirements are reviewed.

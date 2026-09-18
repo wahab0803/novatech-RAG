@@ -1,0 +1,88 @@
+NOVA TECH SOLUTIONS
+Services
+
+Website Development
+
+NovaTech Solutions develops modern responsive websites for businesses and organizations.
+
+Website projects can include:
+- Business websites
+- Landing pages
+- Portfolio websites
+- E-commerce websites
+- Contact forms
+- Booking forms
+- API integrations
+
+Typical website development projects take between 7 and 21 business days depending on the project's size and requirements.
+
+AI Chatbots
+
+NovaTech Solutions develops AI chatbots that can communicate with customers through websites and other supported communication channels.
+
+AI chatbot capabilities can include:
+- Answering frequently asked questions
+- Providing information about products and services
+- Collecting customer information
+- Guiding customers through basic processes
+- Connecting customers to a human representative
+- Retrieving information from company documents
+
+AI chatbots can be connected to a company's knowledge base so that responses are based on approved company information.
+
+Business Automation
+
+NovaTech Solutions creates automated workflows that reduce repetitive manual work.
+
+Common automation projects include:
+- Lead capture
+- Lead qualification
+- Appointment reminders
+- Customer notifications
+- Email automation
+- Data synchronization
+- Spreadsheet automation
+- Internal business workflows
+
+Automation projects normally take between 5 and 20 business days depending on complexity.
+
+Custom Software Development
+
+NovaTech Solutions develops custom software for businesses that require functionality not available in standard software.
+
+Examples include:
+- Internal management systems
+- Customer management systems
+- Inventory systems
+- Business dashboards
+- Custom web applications
+
+Custom software timelines depend on project requirements and are determined after the requirements have been reviewed.
+
+AI Integration
+
+NovaTech Solutions can integrate AI APIs into existing applications and business workflows.
+
+AI integration can be used for:
+- Text generation
+- Document analysis
+- Customer support
+- Information extraction
+- Classification
+- AI-powered search
+- Knowledge-base question answering
+
+SaaS Development
+
+NovaTech Solutions develops SaaS applications for startups and businesses.
+
+SaaS development can include:
+- User authentication
+- Subscription systems
+- Dashboards
+- Databases
+- APIs
+- Admin panels
+- AI features
+
+SaaS development timelines vary significantly depending on the product's complexity.
